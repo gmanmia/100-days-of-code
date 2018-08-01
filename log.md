@@ -2,8 +2,10 @@
 
 ### Day 1: Aug 1, 2018 (Wed)
 
-**Today's Progress**: 
+**Today's Progress**: Installed MongoDB in the c9 server and learned the language to use basic commands
 
-**Thoughts:** 
+**Thoughts:** Feeling sluggish, but I believe I'm building foundation. No code to share yet, as I'm still learning the language
 
-**Link to work:** 
+**Link to work:**  Nothing today.
+
+
